@@ -1,5 +1,6 @@
 <p align="center">
-  <h1>woodpecker-framework</h1>
+  <img src="docs/logo.png" width=600/>
+  <center>Vulnerability accurate detection and deep exploit framework</center>
 </p>
 
 <p align="center">
