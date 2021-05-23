@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="docs/logo.png" width=600/>
-  <center>Vulnerability accurate detection and deep exploit framework</center>
+  <img src="docs/logo.png" width=300/>
+  <div align="center">Vulnerability accurate detection and deep exploit framework</div>
 </p>
 
 <p align="center">
