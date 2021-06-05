@@ -21,8 +21,13 @@ woodpecker-framework是一款漏洞精准检测深度利用框架，只做一件
 
 ![woodpecker-framework](./docs/woodpecker-framework.png)
 
+## 0x02 注意
 
-## 0x02 更多
+#### 2.1 在Mac os JDK11.11版本下运行，切换输入法会崩溃
+这个问题不是woodpecker框架的问题，是该版本JDK的一个bug，具体大家可以看看[Java app crashes while switching input methods](https://bugs.openjdk.java.net/browse/JDK-8257242)
+JDk11.11其他操作系统下可以正常运行。
+
+## 0x03 更多
 * [官方网站](http://woodpecker.gv7.me/)
 * [插件仓库](https://github.com/woodpecker-appstore)
 * [插件编写指南](https://github.com/woodpecker-appstore/plugin-example)
