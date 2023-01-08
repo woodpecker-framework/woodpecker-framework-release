@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img title="portainer" src='https://img.shields.io/badge/version-1.2.0-brightgreen.svg' />
+  <img title="portainer" src='https://img.shields.io/github/v/release/woodpecker-framework/woodpecker-framework-release' />
   <img title="portainer" src='https://img.shields.io/badge/java-1.8.*-yellow.svg' />
   <img title="portainer" src='https://img.shields.io/badge/license-MIT-red.svg' />
 </p>
